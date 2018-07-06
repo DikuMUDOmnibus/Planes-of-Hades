@@ -1,0 +1,230 @@
+#AREADATA
+Name        { 5 35} M.Z.F.  Prototype for New Area~
+Builders    None~
+VNUMs       9500 9506
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#9500
+Barney~
+Barney~
+Barney sits here trying to hug you
+~
+Barney the happy go lucky dinosaur is here hugging you repeatidly
+~
+97 74408 -1000 S
+503 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9501
+Back street boys~
+Backstreet boys~
+The faggy back street boys are here clueless
+~
+The crack street boys look back at you.
+~
+97 74408 -1000 S
+999 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9502
+Hanson~
+Hanson~
+The hansons are here **SCARY** isn't it
+~
+The little fag boy sings to you
+~
+97 74408 -1000 S
+699 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#9503
+Barry white~
+Barry white~
+Barry White sings here 
+~
+Barry white looks back at you.
+~
+161 168 1000 S
+494 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#9500
+Desk~
+aronacus's Desk~
+This is a large oak desk.~
+~
+12 0 0
+0 1 6 11
+9999 0 0
+E
+Computer computer~
+Its a generic type of computer its a pentium 233 with mmx and its his pride and joy don't drop it.~
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#9501
+Toilet~
+a toilet thats overflowing~
+A old toilet~
+~
+25 0 8192
+0 1 6 11
+9999 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#9500
+Welcome to the immortal castle~
+Behold this is the entrance the room castle from which this muds staff live and work. Only few mortals may ever see this place. You can't help but notice the ivory walls and the gold tiled floor.
+You see a plaque here.
+~
+0 8 0
+E
+plaque Plaque~
+***All Oddities and horrible creations that are in this room were created by Aronacus aka Draekon for use on this mud.***
+
+11/21/1998~
+D0
+~
+~
+0 -1 9501
+S
+#9501
+Intersection~
+As you enter this room there seems to be some hallways that lead into diffrent directions to the west you can see a hallway of offices and to the east you notice a hallway thats dark and gloomy.
+You also notice a sign here.
+~
+0 8 0
+E
+Sign~
+West  Offices of Implementors
+
+North Meeting Hall
+
+East  Prison
+     ~
+D0
+~
+~
+0 -1 9506
+D2
+~
+~
+0 -1 9500
+D3
+~
+~
+0 -1 9502
+S
+#9502
+Various Offices~
+There are many offices here in many diffrent directions to the south you see the entrance to a huge ivory office and to the north you can see a huge golden etched office. To the west you can see that the hallway goes on.
+~
+0 8 0
+D1
+~
+~
+0 -1 9501
+D2
+~
+~
+0 -1 9503
+S
+#9503
+Aronacus's Office~
+This is a pretty large office that has suprisingly alot of trash in it. There are loads and loads of papers lying on the floor and various code snipetts that never truly made it into the trash on time. You can't help but realise that this must be why the muds not stable.
+~
+0 8 0
+D0
+~
+~
+0 -1 9502
+D2
+~
+~
+1 -1 9504
+D3
+~
+~
+0 -1 9505
+S
+#9504
+The Bathroom~
+You are looking at a run down and extremely destroyed bathroom. The tiles are chipped off and totally smashed up. The whole room basicly has fallen to pieces and it really can use a maid.
+~
+0 8 0
+D0
+~
+~
+1 -1 9503
+S
+#9505
+Aronacus's Test Room~
+This is a suprisingly clean room if you fail to notice the destroyed items and monsters. You even realise that you just stepped on a arm of a cloaked man. You shudder and try to leave as quickly as you can.
+~
+0 8 0
+D1
+~
+~
+0 -1 9503
+S
+#9506
+Meeting place~
+This is a large meeting room where the staff composes its meetings and plans for the weeks to come. Its large and etched in gold and silver and a little onyx. This place is just a marvel. The lucious colors play songs in your minds eye.
+~
+0 8 0
+D2
+~
+~
+0 -1 9501
+S
+#0
+
+
+
+#SPECIALS
+M 9500 spec_breath_any
+M 9501 spec_thief
+M 9502 spec_cast_mage
+S
+
+
+
+#RESETS
+O 0 9500 0 9503
+O 0 9501 0 9504
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

@@ -1,0 +1,11 @@
+Known Bugs
+
+
+1. Ban code for some reason doesn't save bans it stores them in memory
+2. Soulblade has a bug in it it'll make a blade of any type but for some reason when you improve it instead of it saying you have become better at a mace it'll say you have become better in @##.
+3. Glamour bug known to be in all LOW based muds. you can glamour an item to be a quest item and use it to cut corners on questing.
+
+
+
+thats all I know of
+-Aronacus

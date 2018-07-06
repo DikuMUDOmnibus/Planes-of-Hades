@@ -1,0 +1,11 @@
+teach 12 Mistriss
+claw 12 Mistriss
+weaponteach 12 Mistriss
+baal 20 Dunkirk
+wyrm 12 Sage
+challenge 12 Thespian
+godless 12 Erb
+familiar 12 Phantom
+where 12 Zubrei
+title 12 Aronacus
+END

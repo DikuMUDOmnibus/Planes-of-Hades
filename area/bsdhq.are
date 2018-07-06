@@ -1,0 +1,274 @@
+#AREADATA
+Name        Katrina  Old BSD HQ~
+Builders    None~
+VNUMs       7700 7706
+Security    3
+Recall      0
+End
+
+
+
+#MOBILES
+#7700
+spirit healer~
+the spirit of a healer~
+The spirit of an old healer floats here.
+~
+You can almost see through him, however you can tell enough to see that
+he's still willing to help those in need.  
+~
+3 1572992 1000 S
+995 0 0 0d0+0 0d0+0
+0 0
+0 0 1
+#0
+
+
+
+#OBJECTS
+#7700
+old wooden chest~
+an old wooden chest~
+An old wooden chest has been pushed up against the bed.~
+~
+15 0 0
+90000 1 0 0
+0 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#7701
+thick red dildo~
+a thick red dildo~
+A thick, phallus-shaped object lies on the floor.~
+~
+5 512 8193
+0 2 3 7
+3 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#7702
+black leather whip~
+a black leather whip~
+A coil of black leather sits here, collecting dust.~
+~
+5 512 8193
+0 2 3 4
+2 0 0
+Q
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+(null)~
+0 0
+#0
+
+
+
+#ROOMDATA
+#7700
+The central room~
+You stand in the central room of the small temple.  Pillars have fallen
+and collapsed, And the roof looks like it's about to cave in.  A caving-in
+doorway lies to your east with the door hanging off the hinges, and several
+others lie in the other cardinal directions, however the wood has long-since
+rotted off.  
+~
+0 16392 0
+D0
+~
+~
+0 0 7703
+D1
+~
+~
+1 -1 7701
+D2
+~
+~
+1 -1 7704
+D3
+~
+~
+1 -1 7702
+D4
+~
+~
+0 -1 7705
+D5
+~
+~
+0 -1 7706
+S
+#7701
+The old resting room~
+You stand in what used to be the resting room for whoever lived here. 
+The walls are a relaxing white, and radiate a sense of peace.  You feel like
+noone can hurt you here, and have the urge to take a nap.  
+~
+0 25608 0
+D3
+~
+~
+1 -1 7700
+S
+#7702
+The sparring room~
+This room seems to have been created solely with combat in mind.  It's
+completely bare, and the walls, floor, and even ceiling are covered with
+mats.  Although old blood stains remain, you feel somewhat at ease in here. 
+~
+0 25546 0
+D1
+~
+~
+1 -1 7700
+S
+#7703
+The old altar~
+This room has been completely demolished.  What used to be the altar is
+nothing more than a charred hunk of wood, and the room itself seems cursed. 
+You feel an extremely high sense of evil radiating from this place, and you
+don't think it would be wise to stay here too long.  
+~
+0 851976 0
+D2
+~
+~
+0 0 7700
+S
+#7704
+The mage's study~
+The sense and tingle of magic floods your being as you step into the
+room.  A thick, thick layer of dust covers the floor, almost obscuring a
+small pentagram drawn in chalk.  Several swirling gates are before you,
+leading off to places far from there.  The only exit you can see is north,
+back to the main room.  
+~
+0 16842 0
+E
+sign gates~
+The sign seems to be a list of areas.  The following are listed:
+Hightower, Draconia, Galaxy, Sphinx, Member of Staff, Mahntor,
+Midgaard, Doom.
+~
+T
+sphinx~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2652 0
+T
+staff~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 25008 0
+T
+midgaard~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 3001 0
+T
+hightower~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 1312 0
+T
+galaxy~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 9302 0
+T
+doom~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 11000 0
+T
+draconia~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2201 0
+T
+mahntor~
+$n leaves.~
+You roar so loud when you stop you're somewhere else.~
+all~
+16384 2362 0
+D0
+~
+~
+1 -1 7700
+S
+#7705
+A small private room~
+This small room is almost completely sparse, save for a comfortable
+looking queen-sized bed and a chest near the foot of it.  The chest is
+unlocked and open, the items in it having not been touched for quite some
+time.  The room itself is rather warm, and it gives you a relaxed feeling.  
+~
+0 26124 0
+D5
+~
+~
+0 -1 7700
+S
+#7706
+Entrance to an old temple~
+You stand at the entrance to an old temple.  Rocks and old stones clutter
+the pathway, and the iron gates are rusted open.  Dust covers the floor, but
+shows signs of having been disturbed lately.  
+~
+0 16842 0
+D4
+~
+~
+0 -1 7700
+D5
+~
+~
+0 -1 2355
+S
+#0
+
+
+
+#SPECIALS
+M 7700 spec_cast_adept
+S
+
+
+
+#RESETS
+M 0 7700 1 7701
+P 0 7700 0 1
+P 0 7701 0 7700
+P 0 7702 0 7700
+S
+
+
+
+#SHOPS
+0
+
+
+
+#$

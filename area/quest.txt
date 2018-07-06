@@ -1,0 +1,300 @@
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: a smurf hat
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Dunkirk: the earth ring
+
+[    1] Dunkirk: magic dust
+
+[    1] Dunkirk: a defeathered chicken
+
+[    1] Dunkirk: a wooden stick
+
+[    1] Dunkirk: a fur cloak
+
+[    1] Dunkirk: a small ruby ring
+
+[    1] Dunkirk: a note
+
+[    1] Dunkirk: a chunk of coal
+
+[    1] Sage: the earth ring
+
+[    1] Sage: magic dust
+
+[    1] Sage: a defeathered chicken
+
+[    1] Sage: a wooden stick
+
+[    1] Sage: a fur cloak
+
+[    1] Sage: a small ruby ring
+
+[    1] Sage: a note
+
+[    1] Sage: a chunk of coal
+
+[ 1200] Sage: the earth ring
+
+[ 1200] Sage: magic dust
+
+[ 1200] Sage: a defeathered chicken
+
+[ 1200] Sage: a wooden stick
+
+[ 1200] Sage: a fur cloak
+
+[ 1200] Sage: a small ruby ring
+
+[ 1200] Sage: a note
+
+[ 1200] Sage: a chunk of coal
+
+[ 1200] Sage: the earth ring
+
+[ 1200] Sage: magic dust
+
+[ 1200] Sage: a defeathered chicken
+
+[ 1200] Sage: a wooden stick
+
+[ 1200] Sage: a fur cloak
+
+[ 1200] Sage: a small ruby ring
+
+[ 1200] Sage: a note
+
+[ 1200] Sage: a chunk of coal
+
+[ 1200] Sage: the earth ring
+
+[ 1200] Sage: magic dust
+
+[ 1200] Sage: a defeathered chicken
+
+[ 1200] Sage: a wooden stick
+
+[ 1200] Sage: a fur cloak
+
+[ 1200] Sage: a small ruby ring
+
+[ 1200] Sage: a note
+
+[ 1200] Sage: a chunk of coal
+
+[ 3700] Pluto: the earth ring
+
+[ 3700] Pluto: magic dust
+
+[ 3700] Pluto: a defeathered chicken
+
+[ 3700] Pluto: a wooden stick
+
+[ 3700] Pluto: a fur cloak
+
+[ 3700] Pluto: a small ruby ring
+
+[ 3700] Pluto: a note
+
+[ 3700] Pluto: a chunk of coal
+
+[ 3700] Pluto: the earth ring
+
+[ 3700] Pluto: magic dust
+
+[ 3700] Pluto: a defeathered chicken
+
+[ 3700] Pluto: a wooden stick
+
+[ 3700] Pluto: a fur cloak
+
+[ 3700] Pluto: a small ruby ring
+
+[ 3700] Pluto: a note
+
+[ 3700] Pluto: a chunk of coal
+
+[    1] Sage: the earth ring
+
+[    1] Sage: magic dust
+
+[    1] Sage: a defeathered chicken
+
+[    1] Sage: a wooden stick
+
+[    1] Sage: a fur cloak
+
+[    1] Sage: a small ruby ring
+
+[    1] Sage: a note
+
+[    1] Sage: a chunk of coal
+
+[ 2641] Sage: the earth ring
+
+[ 2641] Sage: magic dust
+
+[ 2641] Sage: a defeathered chicken
+
+[ 2641] Sage: a wooden stick
+
+[ 2641] Sage: a fur cloak
+
+[ 2641] Sage: a small ruby ring
+
+[ 2641] Sage: a note
+
+[ 2641] Sage: a chunk of coal
+
+[ 2641] SirMog: the earth ring
+
+[ 2641] SirMog: magic dust
+
+[ 2641] SirMog: a defeathered chicken
+
+[ 2641] SirMog: a wooden stick
+
+[ 2641] SirMog: a fur cloak
+
+[ 2641] SirMog: a small ruby ring
+
+[ 2641] SirMog: a note
+
+[ 2641] SirMog: a chunk of coal
+
+[    1] Sage: the earth ring
+
+[    1] Sage: magic dust
+
+[    1] Sage: a defeathered chicken
+
+[    1] Sage: a wooden stick
+
+[    1] Sage: a fur cloak
+
+[    1] Sage: a small ruby ring
+
+[    1] Sage: a note
+
+[    1] Sage: a chunk of coal
+

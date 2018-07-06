@@ -1,0 +1,56 @@
+#AREA	{ 5 35} M.Z.F.  Prototype for New Area~
+
+
+#ROOMS
+#20020
+A room~
+You are standing in room #20020.
+~
+0 0 1
+D4
+~
+~
+0 -1 15700
+S
+#15700
+A room~
+You are standing in room #20021.
+~
+0 0 1
+D3
+~
+~
+0 -1 20022
+D5
+~
+~
+0 -1 20020
+S
+#20022
+A room~
+You are standing in room #20022.
+~
+0 0 1
+D0
+~
+~
+0 -1 20023
+D1
+~
+~
+0 -1 20021
+S
+#20023
+A room~
+You are standing in room #20023.
+~
+0 0 1
+D2
+~
+~
+0 -1 20022
+S
+#0
+
+
+#$

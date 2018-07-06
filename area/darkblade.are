@@ -1,0 +1,189 @@
+#AREA	{CLAN }	Order,KaVir   DarkBlade clan HQ~
+
+
+
+#HELPS
+0 $~
+
+
+
+#MOBILES
+#30799
+skeleton warrior~
+a skeleton warrior~
+A skeleton warrior stands here, brandishing a rusty longsword.
+~
+This skeleton looks something more than your average undead...  You
+realise with horror that it is in fact a Death Knight!  
+~
+67 680 -1000 S
+1000 0 0 0d0+0 0d0+0
+0 0
+0 0 0
+#30705
+darkblade cleric~
+the darkblade cleric~
+A DarkBlade Cleric is here.
+~
+This cleric is detecated to the clan.
+~
+2|64 8|128 1000 S
+50 -10 -20 1d1+29999 2d4+30
+0 0
+8 8 1
+#0
+
+
+
+#OBJECTS
+
+#ROOMS
+#30799
+The pit~
+You are standing within a deep dark pit of mire.  Skeletal warriors stand
+glaring at you, ready to tear you limb from limb.  
+~
+0 16392 0
+S
+#30700
+The Temple Altar~
+You are standing by the temple altar.  A great black longsword hangs on
+the far wall, engraved with glowing green runes.  You recognise it as the
+namesake of the DarkBlade clan.  
+~
+0 17416 0
+D2
+~
+~
+0 0 30701
+D4
+~
+~
+0 0 30702
+S
+#30701
+The main chamber~
+You are standing within the main chamber of the headquarters.  To the
+north lies the temple altar, while above you floats a shimmering portal.  
+~
+0 16392 0
+D0
+~
+~
+0 0 30700
+D4
+~
+~
+0 0 3001
+S
+#30702
+The Dark Portals~
+You are standing within a small glowing chamber.  
+~
+0 16392 0
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 25008
+D2
+~
+~
+0 0 2201
+D3
+~
+~
+0 0 2652
+D5
+~
+~
+0 0 30700
+D4
+~
+~
+0 0 30703
+S
+#30703
+The Dark Portals~
+You are standing within a small glowing chamber.  
+~
+0 16392 0
+D0
+~
+~
+0 0 2362
+D1
+~
+~
+0 0 8001
+D2
+~
+~
+0 0 9302
+D3
+~
+~
+0 0 6132
+D5
+~
+~
+0 0 30702
+D4
+~
+~
+0 0 30704
+S
+#30704
+The Dark Portals~
+You are standing within a small glowing chamber.  
+~
+0 16392 0
+D0
+~
+~
+0 0 5300
+D1
+~
+~
+0 0 5552
+D2
+~
+~
+0 0 904
+D3
+~
+~
+0 0 5100
+D5
+~
+~
+0 0 30703
+S
+#0
+
+
+
+#RESETS
+M 0 30799 6 30799
+M 1 30705 1 30700           darkblade Cleric At temple
+E 0 30799 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#SPECIALS
+M 30799 spec_kavir_guardian
+M 30705 spec_cast_adept			the darkblade cleric
+S
+
+
+
+#$
